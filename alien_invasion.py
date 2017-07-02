@@ -26,4 +26,7 @@ def run_game():
         gf.update_screen(ai_setting, screen, ship, aliens, bullets)
 
 
+
+
+
 run_game()
